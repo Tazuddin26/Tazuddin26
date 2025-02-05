@@ -67,8 +67,8 @@
     /> 
   
 </div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Tazudin26" alt="GitHub Streak" />
+<div align="left">
+<img src="https://streak-stats.demolab.com?user=Tazudin26" />
   
 </div>
 
