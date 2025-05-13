@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">“I am a positive, enthusiastic, and competent Web Developer who takes my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry. If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.”</p>
+<p align="left">“I am a positive, enthusiastic, and competent Web Developer who takes my work as a Web Developer seriously, and this means I always ensure my skills are kept up to date within this rapidly changing industry. If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.”</p>
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: I want to be a Skill, full web developer.<br>🎲 Fun fact: I read books in my free time.</p>
+<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: I want to be a skillful web developer.<br>🎲 Fun fact: I read books in my free time.</p>
 
 ###
 
